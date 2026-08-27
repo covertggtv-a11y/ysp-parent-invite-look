@@ -1,0 +1,5 @@
+signed_in=yes (localhost:3010 via CDP cookie copy from navy session)
+player=Nicolas Sosa /players/4850c838-9c8a-484a-b5ed-9b0898917abe
+parent_panel=yes (linked Paul · paul@logicalpatterns.app + Replace/Send)
+other_parent_field=yes
+migration_0026=unapplied (UI still renders)
