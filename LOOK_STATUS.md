@@ -1,14 +1,11 @@
-# LOOK STATUS — YSP Parent invite (PR #11)
+# LOOK STATUS — YSP Parent invite + hide join (PR #11)
 
-Built 27 August 2026. **Not merged. Migration 0026 not applied. Not on navy.**
+HEAD d0d61949. Not merged. Migration 0026 unapplied. Not on navy.
 
-## Three-way delivery
-1. Enlargeable Before/After images in hub chat
-2. Zip: `/workspace/YSP-parent-invite-LOOK.zip`
-3. Hosted: GitHub Pages (see URL after push)
+## Latest CHANGE
+Hide Request to join when player has any approved roster row.
 
-## Click first
-`sheet.html` / `index.html`
-
-## PR
-https://github.com/covertggtv-a11y/youth-sports-app/pull/11
+## Three-way
+1. Hub enlargeable images
+2. /workspace/YSP-parent-invite-LOOK.zip
+3. https://covertggtv-a11y.github.io/ysp-parent-invite-look/
